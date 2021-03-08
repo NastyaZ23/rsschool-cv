@@ -1,0 +1,12 @@
+body{
+    background-image: url(4.jpg);
+    width: 860px;
+    height:100%;
+    margin: 0 auto;
+}
+.cv{
+    background-color: beige;
+    padding: 10px 30px;
+    
+}
+
